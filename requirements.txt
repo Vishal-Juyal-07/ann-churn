@@ -1,5 +1,4 @@
 tensorflow
-pickle
 pandas
 numpy
 scikit-learn
