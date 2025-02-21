@@ -21,7 +21,7 @@ with open('scaler.pkl', 'rb') as f:
 
 
 # Streamlit app
-st.title("Customer Churn prediction")
+st.title("Churn prediction")
 
 # User inputs
 
